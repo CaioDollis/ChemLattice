@@ -1,0 +1,6 @@
+{
+  "name": "ChemLattice — Cheminformatics & Formal Molecular Ontology IDE",
+  "description": "Desktop-grade cheminformatics IDE and formal molecular ontology compiler that computes exhaustive nomenclature equivalence classes (≡, ≃) and interactive Hasse concept lattices (⊂, ∧) in real time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
